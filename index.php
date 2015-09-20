@@ -10,17 +10,25 @@
   <link rel="stylesheet" href="css/common.css">
 </head>
 <body>
+<div id="header">
+  <nav id="header_link_list">
+    <li><a href="http://133.130.59.181/">Home</a></li>
+    <li><a href="https://github.com/">GitHub</a></li>
+    <li><a href="http://133.130.59.181/phpMyAdmin/">phpMyAdmin</a></li>
+  </nav>
+</div>
 
+<div class="wrapper">
 
   <div id="main_content">
-    <h2>TEST PAGE</h2>
-    <ul id="link_list">
-      <li><a class="link_btn" href="http://133.130.59.181/phpMyAdmin/">phpMyAdmin</a></li>
-      <li><a class="link_btn" href="http://133.130.59.181/phpMyAdmin/">phpMyAdmin</a></li>
-      <li><a class="link_btn" href="http://133.130.59.181/phpMyAdmin/">phpMyAdmin</a></li>
+    <h2>WEB DESIGN ＆ PHP </h2>
+    <ul class="link_list">
+      <li><a href="http://133.130.59.181/">Home</a></li>
+      <li><a href="https://github.com/">GitHub</a></li>
+      <li><a href="http://133.130.59.181/phpMyAdmin/">phpMyAdmin</a></li>
     </ul>
   </div>
 
-
+</div>
 </body>
 </html>
