@@ -11,16 +11,15 @@
 </head>
 <body>
 
-<div id="main_content">
-  <h2>TEST PAGE</h2>
-<ul id="link_list">
-  <li><a class="link_btn" href="http://133.130.59.181/phpMyAdmin/">phpMyAdmin</a></li>
-  <li><a class="link_btn" href="http://133.130.59.181/phpMyAdmin/">phpMyAdmin</a></li>
-  <li><a class="link_btn" href="http://133.130.59.181/phpMyAdmin/">phpMyAdmin</a></li>
-</ul>
 
-
-</div>
+  <div id="main_content">
+    <h2>TEST PAGE</h2>
+    <ul id="link_list">
+      <li><a class="link_btn" href="http://133.130.59.181/phpMyAdmin/">phpMyAdmin</a></li>
+      <li><a class="link_btn" href="http://133.130.59.181/phpMyAdmin/">phpMyAdmin</a></li>
+      <li><a class="link_btn" href="http://133.130.59.181/phpMyAdmin/">phpMyAdmin</a></li>
+    </ul>
+  </div>
 
 
 </body>
