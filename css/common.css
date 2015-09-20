@@ -1,15 +1,30 @@
 body {
-
+  background-image: url("../images/snow.JPG");
+  align-items: center;
 }
 
 #main_content {
+  width: 960px;
 
 }
 
 #link_list {
-
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 .link_btn {
-
+  display: table-cell;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  box-sizing: border-box;
+  width: 300px;
+  height: 60px;
+  text-align: center;
+  vertical-align: middle;
+  color: #fff;
+  text-decoration: none;
 }
